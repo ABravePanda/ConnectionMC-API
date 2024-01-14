@@ -1,0 +1,7 @@
+name: OneBlock
+main: com.connectionmc.api.ConnectionMC
+version: 1.0
+description: Adds one block
+author: A_Brave_Panda
+api-version: 1.13
+
